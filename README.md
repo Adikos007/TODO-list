@@ -1,9 +1,9 @@
-Jak Spustist Aplikaci.
+<h1>Jak Spustist Aplikaci.</h1>
 
 Co je potřeba <br>
 Node.js. Download link: https://nodejs.org/en/download
 
-Jak aplikaci spustit<br>
+<h1>Jak aplikaci spustit</h1><br>
 
  1,Naklonovani repozitare pomoci url: https://github.com/Adikos007/TODO-list.git
 
